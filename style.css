@@ -1,0 +1,5 @@
+
+div div, div ~ div {
+	color: grey;
+	font-size: 50px
+}
